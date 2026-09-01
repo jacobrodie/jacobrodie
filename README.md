@@ -11,4 +11,4 @@
 
 [<img align="left" alt="Jane | LinkedIn" width="22px" src="https://www.linkedin.com/in/jacob-rodie-b2772740b/" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jacob-rodie-b2772740b
+[linkedin]:https://www.linkedin.com/in/jacob-rodie-b2772740b
